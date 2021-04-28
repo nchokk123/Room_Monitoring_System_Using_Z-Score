@@ -2,7 +2,7 @@
 In this project, z-score analysis is used to find out whether someone turned on or off the lights in room, and send an SMS when this happens.
 # Steps involved in this project
 A) Here, LDR sensor is used for connecting to Bolt and gets monitored over the cloud. So log in to digitalOcean droplet and create a new folder to hold the files.
-Note: If you are using VirtualBox or VMWare or a Linux system, log in to the system accordingly.
+Note: If you are using VirtualBox or VMWare or a Linux system, log in to the system accordingly.  
 B) Create a new folder and enter it using the following command.
 mkdir Room_Monitoring_System;
 cd Room_Monitoring_System;
